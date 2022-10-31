@@ -7,7 +7,7 @@
     <ul>
       <l1> list blue sheets
       </l1>
-      <l2> do all follow-up required
+      <l2>  and do all follow-up required
       </l2>
     </ul>
   </body>
